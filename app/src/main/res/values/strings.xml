@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GB_Android2_Les5_Broadcast</string>
+    <string name="startBroadcast">Меня cтартонул Бродкаст!</string>
 </resources>
